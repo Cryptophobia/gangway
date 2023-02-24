@@ -13,7 +13,6 @@ require (
 	github.com/json-iterator/go v1.1.9 // indirect
 	github.com/justinas/alice v0.0.0-20171023064455-03f45bd4b7da
 	github.com/kelseyhightower/envconfig v1.3.0
-	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/onsi/ginkgo v1.12.0 // indirect
 	github.com/onsi/gomega v1.9.0 // indirect
@@ -30,8 +29,7 @@ require (
 	gopkg.in/gemnasium/logrus-airbrake-hook.v2 v2.1.2 // indirect
 	gopkg.in/inf.v0 v0.9.1 // indirect
 	gopkg.in/yaml.v2 v2.2.8
-	k8s.io/apimachinery v0.0.0-20181126191516-4a9a8137c0a1 // indirect
+	k8s.io/apimachinery v0.15.7 // indirect
 	k8s.io/client-go v9.0.0+incompatible
-	k8s.io/klog v0.1.0 // indirect
 	sigs.k8s.io/yaml v1.2.0 // indirect
 )
